@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome\n\n\nto the Ganeti users and developer summit\n\n\nCall for Participation\n\n\nPlease help making GanetiCon a valuable event for everyone by sharing your knowledge and experience.\n\n\n\n\nyou like to make the GanetiCon happen then join the GanetiCon list \nganeticon@googlegroups.com\n\n\nsend us an abstract of your talk to \nganeticon@google.com\n\n\n\n\nLocation\n\n\n\n\nNote\n\n\nBerlin Germany\n\n\n\n\nSchedule\n\n\n\n\nNote\n\n\nnot yet defined\n\n\n\n\nSponsors\n\n\n\n\nNote\n\n\nif you like to support the ganeticon drop us a note at \nganeticon@google.com",
+            "title": "The Ganeti Conference"
+        },
+        {
+            "location": "/#welcome",
+            "text": "to the Ganeti users and developer summit",
+            "title": "Welcome"
+        },
+        {
+            "location": "/#call-for-participation",
+            "text": "Please help making GanetiCon a valuable event for everyone by sharing your knowledge and experience.   you like to make the GanetiCon happen then join the GanetiCon list  ganeticon@googlegroups.com  send us an abstract of your talk to  ganeticon@google.com",
+            "title": "Call for Participation"
+        },
+        {
+            "location": "/#location",
+            "text": "Note  Berlin Germany",
+            "title": "Location"
+        },
+        {
+            "location": "/#schedule",
+            "text": "Note  not yet defined",
+            "title": "Schedule"
+        },
+        {
+            "location": "/#sponsors",
+            "text": "Note  if you like to support the ganeticon drop us a note at  ganeticon@google.com",
+            "title": "Sponsors"
+        }
+    ]
+}
